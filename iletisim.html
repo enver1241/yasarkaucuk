@@ -1,0 +1,365 @@
+<!DOCTYPE html>
+<html lang="tr">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta name="viewport"
+          content="width=device-width, initial-scale=1.0">
+
+    <title>İletişim | Yaşar Kauçuk</title>
+
+    <meta name="description"
+          content="Yaşar Kauçuk iletişim. Telefon, WhatsApp, e-posta ve adres bilgileri.">
+
+    <link rel="stylesheet" href="css/style.css">
+
+</head>
+
+
+<body>
+
+
+<header class="header">
+
+    <div class="container nav">
+
+        <a href="index.html" class="logo">
+            <span>YAŞAR</span>
+            <strong>KAUÇUK</strong>
+        </a>
+
+        <nav class="menu">
+
+            <a href="index.html">
+                Ana Sayfa
+            </a>
+
+            <a href="kurumsal.html">
+                Kurumsal
+            </a>
+
+            <a href="urunler.html">
+                Ürünler
+            </a>
+
+            <a href="iletisim.html"
+               class="active">
+                İletişim
+            </a>
+
+        </nav>
+
+        <a href="iletisim.html"
+           class="nav-button">
+            Teklif Al
+        </a>
+
+        <button class="menu-toggle"
+                onclick="toggleMenu()">
+            ☰
+        </button>
+
+    </div>
+
+</header>
+
+
+
+<section class="page-hero">
+
+    <div class="container">
+
+        <div class="section-label">
+            YAŞAR KAUÇUK
+        </div>
+
+        <h1>
+            İletişim
+        </h1>
+
+        <p>
+            Ürün ve teklif talepleriniz için
+            bizimle iletişime geçebilirsiniz.
+        </p>
+
+    </div>
+
+</section>
+
+
+
+<section class="contact">
+
+    <div class="container contact-grid">
+
+
+        <div class="contact-info">
+
+            <div class="section-label">
+                BİZE ULAŞIN
+            </div>
+
+            <h2>
+                İhtiyacınızı
+                <span>konuşalım.</span>
+            </h2>
+
+            <p>
+                Ürün adı, ölçü, çap, metre, adet veya
+                mevcut ürün fotoğrafını göndererek
+                hızlı şekilde bilgi alabilirsiniz.
+            </p>
+
+
+            <div class="contact-item">
+
+                <span>
+                    TELEFON
+                </span>
+
+                <a href="tel:+905306487563">
+
+                    <strong>
+                        +90 530 648 75 63
+                    </strong>
+
+                </a>
+
+            </div>
+
+
+            <div class="contact-item">
+
+                <span>
+                    E-POSTA
+                </span>
+
+                <a href="mailto:yasarkaucuk@outlook.com">
+
+                    <strong>
+                        yasarkaucuk@outlook.com
+                    </strong>
+
+                </a>
+
+            </div>
+
+
+            <div class="contact-item">
+
+                <span>
+                    ADRES
+                </span>
+
+                <strong>
+                    Sanayi Mahallesi
+                    İzmit Sanayi Sitesi
+                    5. Cadde 404 Blok No: 7
+                    İzmit / Kocaeli
+                </strong>
+
+            </div>
+
+
+            <a href="https://wa.me/905306487563"
+               target="_blank"
+               class="whatsapp-button">
+
+                WhatsApp'tan Yazın →
+
+            </a>
+
+        </div>
+
+
+
+        <div class="contact-form">
+
+            <h3>
+                Teklif Talebi
+            </h3>
+
+            <p>
+                Bilgilerinizi doldurun.
+            </p>
+
+
+            <form onsubmit="sendMail(event)">
+
+
+                <label>
+                    Ad Soyad / Firma
+                </label>
+
+                <input
+                    type="text"
+                    id="name"
+                    placeholder="Adınız veya firma adınız"
+                    required
+                >
+
+
+                <label>
+                    Telefon
+                </label>
+
+                <input
+                    type="tel"
+                    id="phone"
+                    placeholder="05XX XXX XX XX"
+                    required
+                >
+
+
+                <label>
+                    E-posta
+                </label>
+
+                <input
+                    type="email"
+                    id="email"
+                    placeholder="ornek@email.com"
+                >
+
+
+                <label>
+                    İlgilendiğiniz Ürün
+                </label>
+
+                <select id="product">
+
+                    <option>
+                        Ürün seçiniz
+                    </option>
+
+                    <option>
+                        Hortum
+                    </option>
+
+                    <option>
+                        Kelepçe
+                    </option>
+
+                    <option>
+                        Kayış
+                    </option>
+
+                    <option>
+                        Kauçuk Ürün
+                    </option>
+
+                    <option>
+                        Levha / Sünger
+                    </option>
+
+                    <option>
+                        Bant
+                    </option>
+
+                    <option>
+                        Fitil / Profil
+                    </option>
+
+                    <option>
+                        KamLok / Rekor
+                    </option>
+
+                    <option>
+                        Vana
+                    </option>
+
+                    <option>
+                        Diğer
+                    </option>
+
+                </select>
+
+
+                <label>
+                    Mesajınız
+                </label>
+
+                <textarea
+                    id="message"
+                    rows="6"
+                    placeholder="Ürün adı, çap, ölçü, metre, adet vb. bilgileri yazabilirsiniz."
+                    required>
+                </textarea>
+
+
+                <button
+                    type="submit"
+                    class="button primary full">
+
+                    Teklif Talebi Gönder
+
+                </button>
+
+            </form>
+
+        </div>
+
+    </div>
+
+</section>
+
+
+
+<footer class="footer">
+
+    <div class="container footer-grid">
+
+        <div>
+
+            <div class="logo footer-logo">
+                <span>YAŞAR</span>
+                <strong>KAUÇUK</strong>
+            </div>
+
+            <p>
+                Hortum, kauçuk ve sanayi ürünlerinde
+                güvenilir tedarik.
+            </p>
+
+        </div>
+
+
+        <div>
+
+            <h4>Menü</h4>
+
+            <a href="index.html">Ana Sayfa</a>
+            <a href="kurumsal.html">Kurumsal</a>
+            <a href="urunler.html">Ürünler</a>
+            <a href="iletisim.html">İletişim</a>
+
+        </div>
+
+
+        <div>
+
+            <h4>İletişim</h4>
+
+            <p>+90 530 648 75 63</p>
+            <p>yasarkaucuk@outlook.com</p>
+            <p>YAŞAR KAUÇUK SANAYİ MAHALLESİ İZMİT SANAYİ SİTESİ 5. CADDE 404 BLOK NO: 7 İZMİT/KOCAELİ/TÜRKİYE</p>
+
+        </div>
+
+    </div>
+
+
+    <div class="copyright">
+        © 2026 Yaşar Kauçuk. Tüm hakları saklıdır.
+    </div>
+
+</footer>
+
+
+<script src="js/script.js"></script>
+
+</body>
+
+</html>
