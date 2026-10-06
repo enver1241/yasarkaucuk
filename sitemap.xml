@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+    <!-- Ana Sayfa -->
+    <url>
+        <loc>https://yasarkaucukcom.tr/</loc>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <!-- Hakkımızda -->
+    <url>
+        <loc>https://yasarkaucukcom.tr/hakkimizda.html</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- Ürünler -->
+    <url>
+        <loc>https://yasarkaucukcom.tr/urunler.html</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
+    </url>
+
+    <!-- İletişim -->
+    <url>
+        <loc>https://yasarkaucukcom.tr/iletisim.html</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- Endüstriyel Tedarik -->
+    <url>
+        <loc>https://yasarkaucukcom.tr/fabrikalara-endustriyel-urun-tedarigi.html</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+    </url>
+
+
+    <!-- 1. Sel Hortumları -->
+    <url>
+        <loc>https://yasarkaucukcom.tr/urunler/sel-hortumlari.html</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- 2. Şeffaf Hortumlar -->
+    <url>
+        <loc>https://yasarkaucukcom.tr/urunler/seffaf-hortumlar.html</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- 3. PVC Hortumlar -->
+    <url>
+        <loc>https://yasarkaucukcom.tr/urunler/pvc-hortumlar.html</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- 4. Poliüretan Hortumlar -->
+    <url>
+        <loc>https://yasarkaucukcom.tr/urunler/poliuretan-hortumlar.html</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- 5. Telli Şeffaf Hortumlar -->
+    <url>
+        <loc>https://yasarkaucukcom.tr/urunler/telli-seffaf-hortumlar.html</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- 6. Kraft Hortumlar -->
+    <url>
+        <loc>https://yasarkaucukcom.tr/urunler/kraft-hortumlar.html</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- 7. Özel Sipariş Hortumlar -->
+    <url>
+        <loc>https://yasarkaucukcom.tr/urunler/ozel-siparis-hortumlar.html</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- 8. Radyatör Hortumları -->
+    <url>
+        <loc>https://yasarkaucukcom.tr/urunler/radyator-hortumlari.html</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- 9. Kalorifer Hortumları -->
+    <url>
+        <loc>https://yasarkaucukcom.tr/urunler/kalorifer-hortumlari.html</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- 10. Akaryakıt Hortumları -->
+    <url>
+        <loc>https://yasarkaucukcom.tr/urunler/akaryakit-hortumlari.html</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- 11. Yangın Hortumları -->
+    <url>
+        <loc>https://yasarkaucukcom.tr/urunler/yangin-hortumlari.html</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- 12. Kelepçe Çeşitleri -->
+    <url>
+        <loc>https://yasarkaucukcom.tr/urunler/kelepce-cesitleri.html</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- 13. V Kayışları -->
+    <url>
+        <loc>https://yasarkaucukcom.tr/urunler/v-kayislari.html</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- 14. Kanallı Kayışlar -->
+    <url>
+        <loc>https://yasarkaucukcom.tr/urunler/kanalli-kayislar.html</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- 15. Kaplin Lastikleri -->
+    <url>
+        <loc>https://yasarkaucukcom.tr/urunler/kaplin-lastikleri.html</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+    </url>
+
+    <!-- 16. O-Ring Çeşitleri -->
+    <url>
+        <loc>https://yasarkaucukcom.tr/urunler/o-ring-cesitleri.html</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+    </url>
+
+    <!-- 17. Fren Lastikleri -->
+    <url>
+        <loc>https://yasarkaucukcom.tr/urunler/fren-lastikleri.html</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- 18. Kriko Keçeleri -->
+    <url>
+        <loc>https://yasarkaucukcom.tr/urunler/kriko-keceleri.html</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- 19. Gromet Lastikleri -->
+    <url>
+        <loc>https://yasarkaucukcom.tr/urunler/gromet-lastikleri.html</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- 20. Motor ve Şase Takozları -->
+    <url>
+        <loc>https://yasarkaucukcom.tr/urunler/motor-sase-takozlari.html</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- 21. Lastik Takozlar -->
+    <url>
+        <loc>https://yasarkaucukcom.tr/urunler/lastik-takozlar.html</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- 22. Silikon Levhalar -->
+    <url>
+        <loc>https://yasarkaucukcom.tr/urunler/silikon-levhalar.html</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- 23. EVA-EPDM Sünger Levhalar -->
+    <url>
+        <loc>https://yasarkaucukcom.tr/urunler/eva-epdm-sunger-levhalar.html</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- 24. Sıyırıcı Bantlar -->
+    <url>
+        <loc>https://yasarkaucukcom.tr/urunler/siyirici-bantlar.html</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- 25. Konveyör ve Taşıyıcı Bantlar -->
+    <url>
+        <loc>https://yasarkaucukcom.tr/urunler/konveyor-tasiyici-bantlar.html</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- 26. PVC Döşemelikler -->
+    <url>
+        <loc>https://yasarkaucukcom.tr/urunler/pvc-dosemelikler.html</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- 27. Patoz Kayışları -->
+    <url>
+        <loc>https://yasarkaucukcom.tr/urunler/patoz-kayislari.html</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- 28. İç Paspas ve Paçalık -->
+    <url>
+        <loc>https://yasarkaucukcom.tr/urunler/ic-paspas-pacalik.html</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- 29. Kapı Fitilleri -->
+    <url>
+        <loc>https://yasarkaucukcom.tr/urunler/kapi-fitilleri.html</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- 30. EVA Süngerler -->
+    <url>
+        <loc>https://yasarkaucukcom.tr/urunler/eva-sungerler.html</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- 31. Kamlok Çeşitleri -->
+    <url>
+        <loc>https://yasarkaucukcom.tr/urunler/kamlok-cesitleri.html</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- 32. Rekor Çeşitleri -->
+    <url>
+        <loc>https://yasarkaucukcom.tr/urunler/rekor-cesitleri.html</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- 33. Küresel Vanalar -->
+    <url>
+        <loc>https://yasarkaucukcom.tr/urunler/kuresel-vanalar.html</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- 34. Kablo Bağları -->
+    <url>
+        <loc>https://yasarkaucukcom.tr/urunler/kablo-baglari.html</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <!-- 35. Yapıştırıcı Çeşitleri -->
+    <url>
+        <loc>https://yasarkaucukcom.tr/urunler/yapistirici-cesitleri.html</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+</urlset>
